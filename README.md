@@ -8,8 +8,7 @@
 
 
 ![image](https://github.com/Kalidja/HomeWork/assets/145051795/27328cc3-0bf4-4bf9-8f45-d7ef277585ef)
-
-| Syntax      | Description |
+| Header      | Title        |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
